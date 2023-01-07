@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: http://te42223/te42223.github.io/sitemap.xml
+Sitemap: http://te42223.github.io/sitemap.xml
