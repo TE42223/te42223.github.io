@@ -1,0 +1,4 @@
+baseURL = 'http://te42223/te42223.github.io'
+languageCode = 'en-us'
+title = 'TE4 Academy Content'
+theme = 'ananke'
